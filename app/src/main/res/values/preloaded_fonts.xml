@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amiri_bold</item>
+        <item>@font/asap_bold</item>
+        <item>@font/asap_medium</item>
+        <item>@font/bungee</item>
+        <item>@font/ceviche_one</item>
+    </array>
+</resources>
